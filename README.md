@@ -1,6 +1,8 @@
-# the_basics
+# A Basic Web App
 
-A new Flutter project.
+A basic web app in flutter. 
+
+# Note : Remove the .fvm folder and then restart it. 
 
 ## Getting Started
 
